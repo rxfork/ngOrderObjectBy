@@ -1,0 +1,26 @@
+{
+  "name": "angular-order-object-by",
+  "version": "1.3.0",
+  "description": "An Angular filter to order an object of objects by a given attribute on the children objects.",
+  "main": "src/ng-order-object-by.js",
+  "keywords": [
+    "angular",
+    "filter",
+    "orderBy",
+    "object"
+  ],
+  "homepage": "https://github.com/fmquaglia/ngOrderObjectBy",
+  "bugs": "https://github.com/fmquaglia/ngOrderObjectBy/issues",
+  "repository": "fmquaglia/ngOrderObjectBy",
+  "license": "MIT",
+  "author": {
+    "name": "Justin Klemm"
+  },
+  "contributors": [
+    {"name": "Fabricio Quagliariello"},
+    {"name": "Diego Urrutibehety"}
+  ],
+  "files": [
+    "src/ng-order-object-by.js"
+  ]
+}
